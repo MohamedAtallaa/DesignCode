@@ -1,5 +1,5 @@
 # DesignCode
-
+Designing the designcode website UI using UIKit and storyboard.
 
 ## App Preview : 
 <img src="https://user-images.githubusercontent.com/100219531/235014005-665fc3db-c5a7-495b-b92c-f21ee581b7e7.gif" width="400">
